@@ -1,3 +1,5 @@
+require "pry"
+
 describe Show do
 
   it "has a name, day, season and genre" do
